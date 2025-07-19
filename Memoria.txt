@@ -1,0 +1,1 @@
+O repositório foi atualizado para usar um novo modelo de frontend fornecido pelo usuário. Removemos todas as referências a DM store e adicionamos barra de pesquisa, carrinho de compras simples com integração ao WhatsApp e botões "Comprar Agora" e "Adicionar ao Carrinho" para cada produto.
